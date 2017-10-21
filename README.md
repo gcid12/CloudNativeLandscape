@@ -1,1 +1,4 @@
-CNCF Landscape Interactive version
+REACT Infographic
+
+``yarn install ``
+``yarn start``
